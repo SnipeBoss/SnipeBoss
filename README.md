@@ -53,5 +53,12 @@
 </p>
 
 
+<h3>Certificate</h3>
+<p align="left">CS50x: CS50's Introduction to Computer Science
+a course of study offered by HarvardX, an online learning initiative of Harvard University. https://courses.edx.org/certificates/c44cf697599148aba8121661c0d7796b <p> 
+
 <p align="left">The Complete 2024 Web Development Bootcamp https://www.udemy.com/certificate/UC-755fb650-7d58-4b18-bad6-72093d1fc2fe/ <p> 
+
+<p align="left">Complete A.I. & Machine Learning, Data Science Bootcamp https://www.udemy.com/certificate/UC-58c0cc31-508c-4d19-90b0-79c48777f093/ <p> 
+
 
