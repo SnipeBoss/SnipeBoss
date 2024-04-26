@@ -1,5 +1,5 @@
 <h1 align="center">Burased Baworncharoenpun</h1>
-<h2 align="center">Automation engineer / IoT engineer</h2>
+<h2 align="center">Automation engineer</h2>
 <h3 align="left">Gmail : Burased.baworncharoenpun@gmail.com</h3>
 <h3 align="left">Tel. : 0968095666</h3>
 <p align="left">
