@@ -59,6 +59,9 @@ a course of study offered by HarvardX, an online learning initiative of Harvard 
 
 <p align="left">The Complete 2024 Web Development Bootcamp https://www.udemy.com/certificate/UC-755fb650-7d58-4b18-bad6-72093d1fc2fe/ <p> 
 
-<p align="left">Complete A.I. & Machine Learning, Data Science Bootcamp https://www.udemy.com/certificate/UC-58c0cc31-508c-4d19-90b0-79c48777f093/ <p> 
+<p align="left">ZTM Complete A.I. & Machine Learning, Data Science Bootcamp https://www.udemy.com/certificate/UC-58c0cc31-508c-4d19-90b0-79c48777f093/ <p> 
+
+<p align="left">Machine Learning A-Z
+https://www.udemy.com/certificate/UC-be712ac1-6d95-4bc3-bebb-d114c9139606/ <p>
 
 
