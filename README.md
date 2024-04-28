@@ -61,7 +61,10 @@ a course of study offered by HarvardX, an online learning initiative of Harvard 
 
 <p align="left">ZTM Complete A.I. & Machine Learning, Data Science Bootcamp https://www.udemy.com/certificate/UC-58c0cc31-508c-4d19-90b0-79c48777f093/ <p> 
 
-<p align="left">Machine Learning A-Z
+<p align="left">Machine Learning A-Z [Python]
 https://www.udemy.com/certificate/UC-be712ac1-6d95-4bc3-bebb-d114c9139606/ <p>
+
+<p align="left">Deep Learning A-Z 2024: Neural Networks, AI
+https://www.udemy.com/certificate/UC-6df7f64a-336a-46fe-85fe-fcfb9812d4c3/ <p>
 
 
