@@ -22,4 +22,9 @@ https://www.udemy.com/certificate/UC-be712ac1-6d95-4bc3-bebb-d114c9139606/ <p>
 <p align="left">Deep Learning A-Z 2024: Neural Networks, AI
 https://www.udemy.com/certificate/UC-6df7f64a-336a-46fe-85fe-fcfb9812d4c3/ <p>
 
+<p align="left">PyTorch for Deep Learning Bootcamp
+https://www.udemy.com/certificate/UC-80d6e48d-c8ce-4e62-8c32-1b024c8982ff/ <p>
+
+
+
 
