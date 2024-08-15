@@ -2,6 +2,7 @@
 <h2 align="center">Automation engineer</h2>
 <h3 align="left">Gmail : Burased.baworncharoenpun@gmail.com</h3>
 <h3 align="left">Tel. : 0968095666</h3>
+<h3 align="left" >Linkin https://www.linkedin.com/in/burased-baworncharoenpun-a3a17a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app </h3>
 <p align="left">
 </p>
 
